@@ -1,0 +1,59 @@
+body {
+    overflow-x: hidden;
+    margin: 0;
+    padding :0;
+}
+#page-wrapper {
+    background-color: #f3f3f4;
+    padding: 6rem;
+    min-height: 568px;
+    position: relative !important;
+}
+.ibox {
+    clear: both;
+    margin-bottom: 25px;
+    margin-top: 0;
+    padding: 0;
+}
+.ibox-content {
+    background-color: #ffffff;
+    color: inherit;
+    padding: 2rem;
+    border-color: #e7eaec;
+    border-image: none;
+    border-style: solid solid none;
+    border-width: 1px 0px;
+}
+.box-content {
+    margin-top: 2rem;
+}
+.btn-info {
+    background-color: #23c6c8;
+    border-color: #23c6c8;
+    color: #FFFFFF;
+}
+.form-date {
+    margin-bottom: 6rem !important;
+}
+.form_simple {
+    border: 1px solid #DDD;
+    padding: 2rem;
+}
+.error-validation {
+    background-color: #EE0000;
+    color: #fff;
+    margin-top: 1px;
+    padding-left: 2px;
+    border-radius: 2px;
+}
+.img_td_table {
+    min-width: 0px !important; min-height: 0px !important; max-width: none !important; max-height: none !important; width: 40px; height: 40px; margin-left: 3px; margin-top: 3px;
+}
+.image_thumbnail img {
+    width: 90px;
+    border: 1px solid #ddd;
+    padding: 3px;
+    margin-bottom: 3px;
+    border-radius: 2px;
+    background-color: #fff;
+}
